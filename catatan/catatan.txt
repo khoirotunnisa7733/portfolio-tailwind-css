@@ -1,0 +1,6 @@
+membuat portofolio
+-tailwind 
+-blobmaker
+-simpleicons.org
+
+membuka emoticon di vs code : windows+ .
